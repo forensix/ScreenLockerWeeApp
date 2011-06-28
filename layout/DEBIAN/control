@@ -1,0 +1,9 @@
+Package: com.manuelgebele.weefacebook
+Name: WeeFacebook
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Mobile Facebook in the notification center
+Maintainer: Manuel Gebele
+Author: Manuel Gebele
+Section: Tweaks
+Tag: role::hacker
