@@ -233,11 +233,11 @@ wasInitialized:
     = [lockManager isLocked];
     if (isLocked)
     {
-        returnImagePath = UNLOCK_BUTTON_IMAGE;
+        returnImagePath = LOCK_BUTTON_IMAGE;
     }
     else
     {
-        returnImagePath = LOCK_BUTTON_IMAGE;
+        returnImagePath = UNLOCK_BUTTON_IMAGE;
     }
     return returnImagePath;
 }
